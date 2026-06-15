@@ -3,7 +3,7 @@
 Currently brewing distributed systems, backend sorcery, and questionable amounts of coffee at **Arizona State University** ☕  
 I like making systems that scale, recover from chaos, and politely refuse to catch fire.
 
-## 🧠 About Me
+##  About Me
 
 - 🎓 MS in Computer Science @ **Arizona State University**
 - 🛠️ Former Software Engineer @ **UBS**
@@ -11,7 +11,7 @@ I like making systems that scale, recover from chaos, and politely refuse to cat
 - 📦 I enjoy turning Kafka topics, Docker containers, and Kubernetes pods into something that actually works
 - 🧩 Occasionally found arguing with YAML indentation
 
-## 🧰 My Toolbox of Controlled Chaos
+##  My Toolbox of Controlled Chaos
 
 Languages: Java, Python, JavaScript, C#, YAML  
 Backend: Spring Boot, Node.js, Express, .NET, REST APIs  
@@ -20,7 +20,7 @@ Cloud/DevOps: AWS, Docker, Kubernetes, Helm, CI/CD
 Data: Kafka, Zookeeper, Neo4j, MongoDB, OracleDB, Postgres  
 Practices: Agile, Scrum, Code Reviews, Debugging things at 2 AM
 
-## 🧪 Things I Like Working On
+##  Things I Like Working On
 
 - Distributed systems that do not panic under pressure
 - Backend services that respond before the user forgets why they clicked
@@ -29,7 +29,7 @@ Practices: Agile, Scrum, Code Reviews, Debugging things at 2 AM
 - Graph databases and weirdly satisfying node relationships
 
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 - Cloud-native architectures
 - Scalable backend systems
